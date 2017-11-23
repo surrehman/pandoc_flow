@@ -85,8 +85,6 @@ fringilla primis augue adipiscing. Metus lacus vulputate inceptos varius
 parturient. Porta class. Justo etiam. Ipsum justo sit tempor ac.
 
 
-
-
 .. H1 ----
 .. H2 ++++
 .. H3 ~~~~~
